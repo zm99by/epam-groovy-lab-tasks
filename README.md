@@ -39,7 +39,7 @@ Task01.sum(1,4) == 5
 `app/src/main/groovy/groovylab/Task02.groovy` - return a list of input elements, where odd numbers are
 multiplied by 3 and even numbers by 2. Example:
 ```groovy
-Task02mulEvenOdd([4,5,6]) == [8,15,12]
+Task02.mulEvenOdd([4,5,6]) == [8,15,12]
 ```
 
 #### Task 3
